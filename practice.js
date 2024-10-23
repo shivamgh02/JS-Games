@@ -5,7 +5,7 @@ let newGameBtn = document.querySelector("#new-btn");
 let msgContainer = document.querySelector(".msg-container");
 let msg = document.querySelector("#msg");
 
-let var21212 = 1233434
+let somethingElse = 123
 let turnO = true;
 let count = 0;
 
